@@ -40,7 +40,7 @@ function HeroContent() {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I'm a skilled Full Stack Software Engineer with a background in
+          I &apos; m a skilled Full Stack Software Engineer with a background in
           crafting websites and web applications. Take a look at my projects and
           the range of skills I bring to the table.
         </motion.p>
