@@ -64,7 +64,7 @@ const Projects = () => {
       <div className="h-full w-full flex flex-row md:flex-row gap-10 px-10 projects">
         {Data.map((project: any) => {
           return (
-            <Link href={project.link}>
+            <Link href={project.link} key={project.src}>
               <ProjectCard
                 src={project.src}
                 title={project.title}
