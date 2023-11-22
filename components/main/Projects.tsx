@@ -16,7 +16,7 @@ const Data: any = [
     title: "KApp",
     description:
       "Kapp, a SaaS, utilizes OpenAI and Replicate AI APIs. Developed with Next.js, Tailwind, and TypeScript for efficient and dynamic web applications",
-    link: "https://k-kakcysvz9-khushj007.vercel.app/",
+    link: "https://k-app-blush.vercel.app/",
   },
   {
     name: "KVideoChat",
